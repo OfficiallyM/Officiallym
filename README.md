@@ -11,7 +11,7 @@
 - [Radiation](https://github.com/OfficiallyM/Radiation)
 - [MoreUFOs](https://github.com/OfficiallyM/MoreUFOs)
 - [Drivable Rock](https://github.com/OfficiallyM/DrivableRock)
-- [Better Vehicle Physics](github.com/OfficiallyM/BetterVehiclePhysics)
+- [Better Vehicle Physics](https://github.com/OfficiallyM/BetterVehiclePhysics)
 
 <br>
 
