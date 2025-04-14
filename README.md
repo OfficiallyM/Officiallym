@@ -12,6 +12,7 @@
 - [MoreUFOs](https://github.com/OfficiallyM/MoreUFOs)
 - [Drivable Rock](https://github.com/OfficiallyM/DrivableRock)
 - [Better Vehicle Physics](https://github.com/OfficiallyM/BetterVehiclePhysics)
+- [Nitrous](https://github.com/OfficiallyM/Nitrous)
 
 <br>
 
