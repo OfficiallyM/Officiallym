@@ -15,6 +15,7 @@
 - [Better Vehicle Physics](https://github.com/OfficiallyM/BetterVehiclePhysics)
 - [Nitrous](https://github.com/OfficiallyM/Nitrous)
 - [TLDPlus](https://github.com/OfficiallyM/TLDPlus)
+- [WorldTweaker](https://github.com/OfficiallyM/WorldTweaker)
 
 <br>
 
