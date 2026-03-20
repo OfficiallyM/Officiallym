@@ -9,7 +9,6 @@
 - [The Long Who](https://github.com/OfficiallyM/TheLongWho) 
 - [Chaos Mod](https://github.com/OfficiallyM/ChaosMod) 
 - [Vehicle Deterioration](https://github.com/OfficiallyM/VehicleDeterioration)
-- [Radiation](https://github.com/OfficiallyM/Radiation)
 - [MoreUFOs](https://github.com/OfficiallyM/MoreUFOs)
 - [Drivable Rock](https://github.com/OfficiallyM/DrivableRock)
 - [Better Vehicle Physics](https://github.com/OfficiallyM/BetterVehiclePhysics)
@@ -17,6 +16,7 @@
 - [TLDPlus](https://github.com/OfficiallyM/TLDPlus)
 - [World Tweaker](https://github.com/OfficiallyM/WorldTweaker)
 - [Achievements](https://github.com/OfficiallyM/Achievements)
+- [Better Enemies](https://github.com/OfficiallyM/BetterEnemies)
 
 <br>
 
